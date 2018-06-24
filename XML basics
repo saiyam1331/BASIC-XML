@@ -1,0 +1,29 @@
+# BASIC-XML
+<?xml version="1.0"?>
+<?xml-stylesheet href="booklist.css" type="text/css"?>
+<bookdetails>
+<details>
+<asin>0464765x</asin>
+<productname>INTRODUCTION TO WONDERFUL WORLD OF XML</productname>
+<catalog>book</catalog>
+<author>A Jazz</author>
+<releasedate>19december,2017</releasedate>
+<publisher>pits</publisher>
+<prices>
+ <listprice>rs500</listprice>
+<ourprice>rs300</ourprice>
+</prices>
+</details>
+<details>
+<asin>544y657687</asin>
+<productname>XML,HTML and CSS</productname>
+<catalog>book</catalog>
+<author>C Link</author>
+<releasedate>25november,2017</releasedate>
+<publisher>HRS</publisher>
+<prices>
+   <listprice>rs300</listprice>
+   <ourprice>rs200</ourprice>
+</prices>
+</details>
+</bbokdetails>
